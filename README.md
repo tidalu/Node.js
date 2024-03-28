@@ -96,3 +96,33 @@
 ![alt text](images/pt-2/image-2.9.png)
 
 ### fs module
+
+### Stream recap
+
+![alt text](image.png)
+![alt text](image-1.png)
+
+### Pipes
+
+### HTTP Module so far
+
+![alt text](image-2.png)
+
+### Web Framework
+
+![alt text](image-3.png)
+
+### Section summary
+
+![alt text](image-4.png)
+
+### libuv
+
+![alt text](image-5.png)
+
+### Thread pool
+
+![alt text](image-6.png)
+
+![alt text](image-7.png)
+![alt text](image-8.png)
