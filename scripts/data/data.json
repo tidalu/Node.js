@@ -1,0 +1,7 @@
+{
+    "name" : "Bruce Wayne", 
+    "address": {
+        "city": "Lodz", 
+        "screet": "dunno"
+    } 
+}
