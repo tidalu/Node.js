@@ -204,3 +204,39 @@
 - Answer
   ![alt text](image-52.png)
   ![alt text](image-53.png)
+
+## IO polling
+
+## chech queue
+
+## Close Queue
+
+## Event loop summary
+
+![alt text](image-54.png)
+
+## npm
+
+![alt text](image-55.png)
+
+## Versioning
+
+![alt text](image-56.png)
+![alt text](image-57.png)
+![alt text](image-58.png)
+![alt text](image-59.png)
+
+## npm scripts
+
+![alt text](image-60.png)
+
+## CLI
+
+## Cluster Module
+
+![alt text](image-61.png)
+![alt text](image-62.png)
+
+## Worker Thread
+
+![alt text](image-63.png)
